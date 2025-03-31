@@ -1,4 +1,27 @@
 ## Hi there 👋
+'####:'########:'####::'######::::::::'###::::'##:::::::'########:'##::::'##:
+. ##::... ##..:: ####:'##... ##::::::'## ##::: ##::::::: ##.....::. ##::'##::
+: ##::::: ##::::. ##:: ##:::..::::::'##:. ##:: ##::::::: ##::::::::. ##'##:::
+: ##::::: ##::::'##:::. ######:::::'##:::. ##: ##::::::: ######:::::. ###::::
+: ##::::: ##::::..:::::..... ##:::: #########: ##::::::: ##...:::::: ## ##:::
+: ##::::: ##::::::::::'##::: ##:::: ##.... ##: ##::::::: ##:::::::: ##:. ##::
+'####:::: ##::::::::::. ######::::: ##:::: ##: ########: ########: ##:::. ##:
+....:::::..::::::::::::......::::::..:::::..::........::........::..:::::..::
+## About me:
+- I am a high school senior, and I will be studying software engineering when I get to college :)
+- My hobbies include video gaming, crocheting, and drawing (I also still read sometimes)
+- Completionist at heart <3
+- Theater kid- always looking for musical recomendations
+- I aspire to complete all of the coding bat practice problems- I'll get there one day o7
+- I've been interested in computer science since elementary school
+- Pronouns he/him/his
+## Skills:
+- Java <3
+- Python (sort of- working on it :))
+- C++ (a little)
+## Fun Fact:
+- 'BenFrnklnDuck' is based on the first computer science rubber duck I ever recieved in a comp sci class
+
 
 <!--
 **benFrnklnDuck/BenFrnklnDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
