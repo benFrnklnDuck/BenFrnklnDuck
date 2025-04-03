@@ -1,4 +1,4 @@
-## Hi there 👋
+![c++](https://github.com/user-attachments/assets/ad3527bc-6617-482b-afb0-7d1dabd89ff5)## Hi there 👋
 ```
 '####:'########:'####::'######::::::::'###::::'##:::::::'########:'##::::'##:
 . ##::... ##..:: ####:'##... ##::::::'## ##::: ##::::::: ##.....::. ##::'##::
@@ -9,6 +9,9 @@
 '####:::: ##::::::::::. ######::::: ##:::: ##: ########: ########: ##:::. ##:
 ....:::::..::::::::::::......::::::..:::::..::........::........::..:::::..::
 ```
+![duck_resized](https://github.com/user-attachments/assets/edbd2a61-b032-467b-9b9e-1d1a42b0303e)
+
+
 ## About me:
 - I am a high school senior, and I will be studying software engineering when I get to college :)
 - My hobbies include video gaming, crocheting, and drawing (I also still read sometimes)
@@ -21,6 +24,7 @@
 - Java <3
 - Python (sort of- working on it :))
 - C++ (a little)
+
 ## Fun Fact:
 - 'BenFrnklnDuck' is based on the first computer science rubber duck I ever recieved in a comp sci class
 
