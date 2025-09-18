@@ -13,9 +13,9 @@
 
 
 ## About me:
-- I am a high school senior, and I will be studying software engineering when I get to college :)
+- College freshman, undeclared engineering
 - My hobbies include video gaming, crocheting, and drawing (I also still read sometimes)
-- Completionist at heart <3
+- Completionist at heart
 - Theater kid- always looking for musical recomendations
 - I aspire to complete all of the coding bat practice problems- I'll get there one day o7
 - I've been interested in computer science since elementary school
