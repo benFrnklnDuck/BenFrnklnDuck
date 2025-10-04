@@ -15,14 +15,13 @@
 ## About me:
 - College freshman, undeclared engineering
 - My hobbies include video gaming, crocheting, and drawing (I also still read sometimes)
-- Completionist at heart
 - Theater kid- always looking for musical recomendations
 - I aspire to complete all of the coding bat practice problems- I'll get there one day o7
 - I've been interested in computer science since elementary school
 - Pronouns he/him/his
 ## Skills:
 - Java <3
-- Python (sort of- working on it :))
+- Python
 - C++ (a little)
 
 ## Fun Fact:
