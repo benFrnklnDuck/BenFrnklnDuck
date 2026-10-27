@@ -13,9 +13,9 @@
 
 
 ## About me:
-- College freshman, undeclared engineering
+- College sophomore, software engineering
 - My hobbies include video gaming, crocheting, and drawing (I also still read sometimes)
-- Theater kid- always looking for musical recomendations
+- Theater kid- always looking for musical recommendations
 - I aspire to complete all of the coding bat practice problems- I'll get there one day o7
 - I've been interested in computer science since elementary school
 - Pronouns he/him/his
@@ -25,7 +25,7 @@
 - C++ (a little)
 
 ## Fun Fact:
-- 'BenFrnklnDuck' is based on the first computer science rubber duck I ever recieved in a comp sci class
+- 'BenFrnklnDuck' is based on the first computer science rubber duck I ever received in a comp sci class
 
 
 <!--
